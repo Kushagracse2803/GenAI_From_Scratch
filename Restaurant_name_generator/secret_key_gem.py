@@ -1,1 +1,1 @@
-gemini_key="AIzaSyDANT3iZmWg7tPZsYXZVWUgpEWrnxf5mNY"
+gemini_key=""YY_YY_YYYY
